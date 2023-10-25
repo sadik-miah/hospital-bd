@@ -1,0 +1,38 @@
+/* color  */
+.primary {
+    color: #19D3AE;
+}
+
+/* navbar sec */
+.nav-item-bg:hover {
+    background-color: gray;
+    border-radius: 5px;
+    color: red;
+}
+
+/* contact sec  */
+.location-bg {
+    background-color: gray;
+}
+
+.bg-img {
+    background-color: beige;
+
+}
+
+/* contact sec  */
+.contact-bg {
+    background-color: gainsboro;
+}
+
+.contact-mt {
+    margin-top: 100px;
+}
+
+/* footer sec  */
+
+.ul-style {
+    list-style: none;
+    /*  padding: 0;
+    margin: 0; */
+}
