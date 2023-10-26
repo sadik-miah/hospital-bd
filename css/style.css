@@ -36,3 +36,17 @@
     /*  padding: 0;
     margin: 0; */
 }
+
+.appoinment-mb {
+    margin-bottom: 192px;
+}
+
+.padding-pt {
+    padding-top: 80px;
+}
+
+.appoinment-bg {
+    background-image: url(/assets/images/appointment.png);
+    background-repeat: no-repeat;
+
+}
