@@ -37,16 +37,15 @@
     margin: 0; */
 }
 
+/* appoinment sec  */
 .appoinment-mb {
     margin-bottom: 192px;
 }
 
-.padding-pt {
-    padding-top: 80px;
+.appoinment-mt {
+    margin-top: 150px;
 }
 
-.appoinment-bg {
-    background-image: url(/assets/images/appointment.png);
-    background-repeat: no-repeat;
-
+.padding-pt {
+    padding-top: 80px;
 }
